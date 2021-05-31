@@ -1,0 +1,27 @@
+.head{
+    color: white;
+    font-weight: bolder;
+    font-size: 5rem;
+    padding-top: 3rem;
+    text-align: center;
+}
+
+.allcards{
+    margin-left: 12.5vw;
+}
+
+.column{
+    float: left;
+    width: 25%;
+    padding: 0 10px;
+}
+
+.column:active{
+  transform: translateY(4px);
+}
+/*
+fontWeight: bolder;
+	fontSize: 5vh;
+	paddingTop: 3vh;
+    textAlign: center,
+*/

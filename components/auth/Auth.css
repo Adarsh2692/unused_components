@@ -1,0 +1,45 @@
+/* .sect {
+  background: rgb(98, 192, 255) center center/cover no-repeat;
+  height: 60vh;
+  width: 50vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  box-shadow: inset 1px 5px 10px 1000px rgba(0, 0, 0, 0.2);
+  object-fit: contain;
+  overflow-x: hidden;
+  align-items: center;
+  background-size: 100vh;
+  margin-top: 10vh;
+  margin-bottom: auto;
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;
+}
+
+.my{
+    font-size: 15px;
+}
+
+input[type=text], input[type=email], input[type=password] {
+    width: 25vw;
+    height: 4vw;
+    padding: 1vh 2vh;
+    margin: 3px;
+    border: none;
+    border-bottom: 4px solid #0f2f8d;
+}
+
+@media screen and (max-width: 768px) {
+    .sect{
+        width: 90vw;
+    }
+    input[type=text], input[type=email], input[type=password] {
+    width: 50vw;
+    height: 8vw;
+    padding: 1vw 2vwpx;
+    margin: 3px;
+    border: none;
+    border-bottom: 4px solid #0f2f8d;
+}
+} */
